@@ -1,0 +1,4 @@
+C:\Users\shoun\Documents\Projects\DiceRoll\DiceRoll\bin\Debug\DiceRoll.exe
+C:\Users\shoun\Documents\Projects\DiceRoll\DiceRoll\bin\Debug\DiceRoll.pdb
+C:\Users\shoun\Documents\Projects\DiceRoll\DiceRoll\obj\x86\Debug\DiceRoll.exe
+C:\Users\shoun\Documents\Projects\DiceRoll\DiceRoll\obj\x86\Debug\DiceRoll.pdb

@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="TakeCard\TakeCard.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TakeCard\Program.cs">
+    <Files>
+      <File FileName="TakeCard\Program.cs" Line="37" Column="2" />
+      <File FileName="TakeCard\Card.cs" Line="2" Column="1" />
+      <File FileName="TakeCard\Deck.cs" Line="2" Column="1" />
+      <File FileName="TakeCard\Rank.cs" Line="2" Column="1" />
+      <File FileName="TakeCard\Suit.cs" Line="2" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
