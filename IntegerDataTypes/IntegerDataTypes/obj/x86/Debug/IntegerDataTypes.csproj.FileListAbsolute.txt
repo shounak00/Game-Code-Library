@@ -1,0 +1,4 @@
+C:\Users\shoun\Documents\Projects\IntegerDataTypes\IntegerDataTypes\bin\Debug\IntegerDataTypes.exe
+C:\Users\shoun\Documents\Projects\IntegerDataTypes\IntegerDataTypes\bin\Debug\IntegerDataTypes.pdb
+C:\Users\shoun\Documents\Projects\IntegerDataTypes\IntegerDataTypes\obj\x86\Debug\IntegerDataTypes.exe
+C:\Users\shoun\Documents\Projects\IntegerDataTypes\IntegerDataTypes\obj\x86\Debug\IntegerDataTypes.pdb

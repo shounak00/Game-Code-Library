@@ -1,0 +1,4 @@
+C:\Users\shoun\Documents\Projects\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\MyFirstConsoleApp.exe
+C:\Users\shoun\Documents\Projects\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\MyFirstConsoleApp.pdb
+C:\Users\shoun\Documents\Projects\MyFirstConsoleApp\MyFirstConsoleApp\obj\x86\Debug\MyFirstConsoleApp.exe
+C:\Users\shoun\Documents\Projects\MyFirstConsoleApp\MyFirstConsoleApp\obj\x86\Debug\MyFirstConsoleApp.pdb
