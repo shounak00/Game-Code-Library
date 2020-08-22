@@ -1,0 +1,4 @@
+C:\Users\shoun\Documents\Projects\TakeCard\TakeCard\bin\Debug\TakeCard.exe
+C:\Users\shoun\Documents\Projects\TakeCard\TakeCard\bin\Debug\TakeCard.pdb
+C:\Users\shoun\Documents\Projects\TakeCard\TakeCard\obj\x86\Debug\TakeCard.exe
+C:\Users\shoun\Documents\Projects\TakeCard\TakeCard\obj\x86\Debug\TakeCard.pdb

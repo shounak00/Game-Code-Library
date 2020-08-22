@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="DiceRoll\DiceRoll.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DiceRoll\Dice.cs">
+    <Files>
+      <File FileName="DiceRoll\Program.cs" Line="21" Column="12" />
+      <File FileName="DiceRoll\Dice.cs" Line="61" Column="25" />
+      <File FileName="DiceRoll\RandomNumberGenerator.cs" Line="7" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
