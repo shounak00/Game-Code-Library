@@ -1,0 +1,4 @@
+C:\Users\Albert\Documents\Visual Studio 2017\Projects\Exercise15\Exercise15\bin\Debug\Exercise15.exe
+C:\Users\Albert\Documents\Visual Studio 2017\Projects\Exercise15\Exercise15\bin\Debug\Exercise15.pdb
+C:\Users\Albert\Documents\Visual Studio 2017\Projects\Exercise15\Exercise15\obj\x86\Debug\Exercise15.exe
+C:\Users\Albert\Documents\Visual Studio 2017\Projects\Exercise15\Exercise15\obj\x86\Debug\Exercise15.pdb
