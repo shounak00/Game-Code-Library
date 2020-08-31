@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="ProgrammingAssignment3\ProgrammingAssignment3.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProgrammingAssignment3\Matherator.cs">
+    <Files>
+      <File FileName="ProgrammingAssignment3\Program.cs" Line="80" Column="1" />
+      <File FileName="ProgrammingAssignment3\Matherator.cs" Line="73" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
