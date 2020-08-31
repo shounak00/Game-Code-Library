@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="ProgrammingAssignment2\ProgrammingAssignment2.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProgrammingAssignment2\Egg.cs">
+    <Files>
+      <File FileName="ProgrammingAssignment2\Program.cs" Line="106" Column="7" />
+      <File FileName="ProgrammingAssignment2\Egg.cs" Line="118" Column="5" />
+      <File FileName="ProgrammingAssignment2\EggColor.cs" Line="19" Column="1" />
+      <File FileName="ProgrammingAssignment2\HowCooked.cs" Line="21" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
