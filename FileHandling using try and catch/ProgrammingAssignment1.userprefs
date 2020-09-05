@@ -2,8 +2,8 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ProgrammingAssignment1\PersonalData.cs">
     <Files>
-      <File FileName="ProgrammingAssignment1\Program.cs" Line="1" Column="1" />
-      <File FileName="ProgrammingAssignment1\PersonalData.cs" Line="160" Column="5" />
+      <File FileName="ProgrammingAssignment1\Program.cs" Line="94" Column="7" />
+      <File FileName="ProgrammingAssignment1\PersonalData.cs" Line="138" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

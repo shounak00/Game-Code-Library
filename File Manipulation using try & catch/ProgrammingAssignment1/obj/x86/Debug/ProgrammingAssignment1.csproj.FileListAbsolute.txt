@@ -1,8 +1,0 @@
-C:\Users\shoun\Documents\Projects\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\ProgrammingAssignment1.exe
-C:\Users\shoun\Documents\Projects\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\ProgrammingAssignment1.pdb
-C:\Users\shoun\Documents\Projects\ProgrammingAssignment1\ProgrammingAssignment1\obj\x86\Debug\ProgrammingAssignment1.exe
-C:\Users\shoun\Documents\Projects\ProgrammingAssignment1\ProgrammingAssignment1\obj\x86\Debug\ProgrammingAssignment1.pdb
-C:\Users\shoun\Documents\Projects\File Manipulation using try & catch\ProgrammingAssignment1\bin\Debug\ProgrammingAssignment1.exe
-C:\Users\shoun\Documents\Projects\File Manipulation using try & catch\ProgrammingAssignment1\bin\Debug\ProgrammingAssignment1.pdb
-C:\Users\shoun\Documents\Projects\File Manipulation using try & catch\ProgrammingAssignment1\obj\x86\Debug\ProgrammingAssignment1.exe
-C:\Users\shoun\Documents\Projects\File Manipulation using try & catch\ProgrammingAssignment1\obj\x86\Debug\ProgrammingAssignment1.pdb

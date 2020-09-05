@@ -1,0 +1,4 @@
+C:\Users\shoun\Documents\Projects\ProgrmmingAssignment2\ProgrmmingAssignment2\bin\Debug\ProgrmmingAssignment2.exe
+C:\Users\shoun\Documents\Projects\ProgrmmingAssignment2\ProgrmmingAssignment2\bin\Debug\ProgrmmingAssignment2.pdb
+C:\Users\shoun\Documents\Projects\ProgrmmingAssignment2\ProgrmmingAssignment2\obj\x86\Debug\ProgrmmingAssignment2.exe
+C:\Users\shoun\Documents\Projects\ProgrmmingAssignment2\ProgrmmingAssignment2\obj\x86\Debug\ProgrmmingAssignment2.pdb
